@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fullstack-decal/homework4-mmuiro/static/css/main.e0132159.css",
+    "main.js": "/fullstack-decal/homework4-mmuiro/static/js/main.61ba9189.js",
+    "index.html": "/fullstack-decal/homework4-mmuiro/index.html",
+    "main.e0132159.css.map": "/fullstack-decal/homework4-mmuiro/static/css/main.e0132159.css.map",
+    "main.61ba9189.js.map": "/fullstack-decal/homework4-mmuiro/static/js/main.61ba9189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0132159.css",
+    "static/js/main.61ba9189.js"
+  ]
+}
