@@ -1,9 +1,13 @@
 .board-row:after {
-    clear: both;
-    content: '';
-    display: table;
+  clear: both;
+  content: '';
+  display: table;
 }
 
 .status {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.reset {
+  width: 100%;
 }

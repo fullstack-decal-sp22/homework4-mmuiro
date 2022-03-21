@@ -1,12 +1,12 @@
-import React from "react";
+import React from 'react';
 import './styles/Square.css';
 
-function Square() {
-    return (
-        <button className="square">
-            {/* TODO */}
-        </button>
-    )
+function Square({ mySymbol, myUpdater }) {
+  return (
+    <button className="square" onClick={(e) => myUpdater()}>
+      {mySymbol}
+    </button>
+  );
 }
 
 export default Square;
